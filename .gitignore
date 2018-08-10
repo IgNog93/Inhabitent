@@ -12,7 +12,8 @@ plugins/*
 !plugins/inhabitent-contact-info/
 # Ignore everything in "themes" except the active theme. #
 themes/*
-!themes/igorbitent
+!themes/igorbitent/
+!themes/inhabitent/
 # Ignore packages #
 themes/igorbitent/node_modules/
 themes/igorbitent/.vscode/
