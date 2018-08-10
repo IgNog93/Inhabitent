@@ -9,7 +9,7 @@ The theme Igorbitent was exclusively created to reflect the website model sent b
 
 # ScreenShots
 
-<img src="themes/igorbitent/screenshots/inhab1.png" width="150px"><img src="themes/igorbitent/screenshots/inhab2.png" width="150px"><img src="themes/igorbitent/screenshots/inhab3.png" width="150px">
+<img src="themes/igorbitent/screenshots/inhab1.png" width="250px"><img src="themes/igorbitent/screenshots/inhab2.png" width="250px"><img src="themes/igorbitent/screenshots/inhab3.png" width="250px">
 
 # Technologies used:
 
