@@ -7,7 +7,7 @@ Inhabitent is a multi-page website with a blog for a camping supply company call
 The theme Igorbitent was exclusively created to reflect the website model sent by RED Academy.
 
 
-## ScreenShots
+# ScreenShots
 
 <img src="./themes/igorbitent/screenshots/inhab1.PNG" width="150px"><img src="themes/igorbitent/screenshots/inhab2.PNG" width="150px"><img src="themes/igorbitent/screenshots/inhab3.PNG" width="150px">
 
